@@ -1,13 +1,19 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Mohammad+Al+Samiul;Software+Engineer+%40+Galaxy+Television;Full-Stack+%7C+NestJS+%7C+Next.js+%7C+TypeScript;Docker+%7C+CI%2FCD+%7C+Redis+%7C+RabbitMQ+%7C+AI+Pipelines)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Al%20Samiul&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Pipelines%20%7C%20DevOps&descAlignY=55&descSize=16" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&multiline=false&width=750&lines=👋+Hi,+I'm+Samiul+—+Software+Engineer;⚡+NestJS+%7C+Next.js+%7C+TypeScript+%7C+Node.js;🐳+Docker+%7C+GitHub+Actions+%7C+CI%2FCD+Pipelines;📨+RabbitMQ+%7C+Redis+%7C+Distributed+Systems;🤖+LangChain+%7C+LangGraph+%7C+AI+Automation;🚀+Building+Scalable+Production+Apps)](https://git.io/typing-svg)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge)](https://alsamiul101.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/al-samiul-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-al-samiul)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsamiul.programmer@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsamiul.programmer@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=mohammad-al-samiul&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mohammad-al-samiul)
 
 </div>
@@ -23,26 +29,29 @@ const samiul: Developer = {
   location: "Dhaka, Bangladesh 🇧🇩",
   edu:      "B.Sc CSE — Premier University Chittagong (2020–2025)",
 
-  currentWork: [
-    "Building full-stack apps with scalable, maintainable architecture",
-    "Developing AI-driven pipelines with LangChain, LangGraph & n8n",
-    "Designing REST APIs and distributed backend systems",
+  currentFocus: [
+    "🏗️  Scalable full-stack apps with clean, maintainable architecture",
+    "🤖  AI-driven pipelines — LangChain, LangGraph & n8n",
+    "🐳  Containerised deployments with Docker & GitHub Actions CI/CD",
+    "📨  Event-driven systems with RabbitMQ & Redis caching layers",
+    "🔌  RESTful API design & distributed backend systems",
   ],
 
   stack: {
-    frontend:    ["React.js", "Next.js", "TypeScript", "Redux", "TanStack Query", "Tailwind CSS"],
-    backend:     ["Node.js", "Express.js", "NestJS"],
-    databases:   ["MongoDB", "PostgreSQL", "Redis"],
-    messaging:   ["RabbitMQ"],
-    devops:      ["Docker", "CI/CD", "Git", "Postman"],
-    ai:          ["LangChain", "LangGraph", "n8n"],
-    auth:        ["JWT", "HttpOnly Cookies", "RBAC"],
+    frontend:  ["Next.js", "React.js", "TypeScript", "Redux", "TanStack Query", "Tailwind CSS"],
+    backend:   ["NestJS", "Node.js", "Express.js"],
+    databases: ["PostgreSQL", "MongoDB", "Redis"],
+    messaging: ["RabbitMQ"],
+    devops:    ["Docker", "GitHub Actions", "CI/CD", "Git", "Postman"],
+    ai:        ["LangChain", "LangGraph", "n8n"],
+    auth:      ["JWT", "HttpOnly Cookies", "RBAC"],
   },
 
-  achievements: [
-    "Reduced dashboard load time by 30% at Blueberry Digital Labs",
-    "Built LifeOS SaaS task management fullstack features",
-    "Delivered production Inventory Management System (NestJS + PostgreSQL)",
+  highlights: [
+    "⚡ 30% dashboard load-time reduction @ Blueberry Digital Labs",
+    "📦 Production Inventory Management System — NestJS + PostgreSQL",
+    "🎯 LifeOS SaaS full-stack task management features",
+    "🧑‍🏫 Mentored juniors in web dev & project-based learning",
   ],
 
   funFact: "My patience can annoy anyone 😄",
@@ -51,64 +60,39 @@ const samiul: Developer = {
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience Timeline
 
-<table width="100%">
-<tr>
-<td width="60%">
+<div align="center">
 
-**🚀 Software Engineer** — Galaxy Television
-`May 2026 – Present · Dhaka, Bangladesh`
+```
+  May 2026 ──────────────────────────────────────────── Present
+      │
+      ▼
+  🚀 Software Engineer · Galaxy Television · Dhaka
+      ├─ Full-stack apps with scalable architecture
+      ├─ AI pipelines: LangChain · LangGraph · n8n
+      ├─ Docker · CI/CD · GitHub Actions deployments
+      └─ Distributed backend & API architecture
 
-- Full-stack apps with scalable architecture
-- AI pipelines: **LangChain**, **LangGraph**, **n8n**
-- Backend systems, API design & architecture
+  Oct 2025 ──────────────────────────────────── Mar 2026
+      │
+      ▼
+  ⚡ Junior Software Engineer (Full Stack) · Divergent Technologies
+      ├─ Next.js dashboards · TanStack Query & Table
+      ├─ Inventory Management System: NestJS + PostgreSQL
+      ├─ LifeOS SaaS — task creation · scheduling · workflow
+      └─ HttpOnly cookie auth + Jotai state sync
 
-</td>
-<td width="40%" align="right">
+  Jan 2025 ──────────────────────────────────── Jun 2025
+      │
+      ▼
+  🎨 Frontend Engineer (Contract) · Blueberry Digital Labs · Hyderabad
+      ├─ Responsive React.js UIs across all devices
+      ├─ 30% dashboard load-time improvement
+      └─ TanStack Query for caching & server state
+```
 
-![Current](https://img.shields.io/badge/Current-22C55E?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr>
-<td width="60%">
-
-**⚡ Junior Software Engineer (Full Stack)** — Divergent Technologies Ltd.
-`Oct 2025 – Mar 2026 · Dhaka, Bangladesh`
-
-- Dashboards with **Next.js**, **TanStack Query & Table**
-- Inventory Management System: **NestJS + PostgreSQL**
-- **LifeOS SaaS** — task creation, scheduling, workflow
-- Secure auth with **HttpOnly cookies** + **Jotai** state
-
-</td>
-<td width="40%" align="right">
-
-![Fullstack](https://img.shields.io/badge/Full--Stack-6366F1?style=flat-square)
-
-</td>
-</tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr>
-<td width="60%">
-
-**🎨 Frontend Engineer (Contract)** — Blueberry Digital Labs
-`Jan 2025 – Jun 2025 · Hyderabad, India`
-
-- Responsive UIs with **React.js**
-- **30% faster** dashboard load time
-- TanStack Query for API caching & state sync
-
-</td>
-<td width="40%" align="right">
-
-![Frontend](https://img.shields.io/badge/Frontend-F59E0B?style=flat-square)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -127,33 +111,33 @@ const samiul: Developer = {
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### 🗄️ Databases & Messaging
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### 🐳 DevOps & Infrastructure
+### 📨 Messaging & Events
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+### 🐳 DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ### 🤖 AI & Automation
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logoColor=white)
+
+### 🔐 Auth & Concepts
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -171,9 +155,9 @@ const samiul: Developer = {
 ### 📦 Project Highlights
 
 | Project | Tech | Live |
-|---------|------|------|
-| **Fabrica Fetish** — Full-stack e-commerce with JWT auth, RBAC, Aamarpay payment | Next.js · Node.js · MongoDB | [🔗 Live](https://fabrica-fetish-client.vercel.app) |
-| **BikeHub** — Bike rental platform with admin modules, bookings & secure payments | React · Redux · TypeScript · MongoDB | [🔗 Live](https://bikehub-client.vercel.app) |
+|---|---|:---:|
+| **🛍️ Fabrica Fetish** — Full-stack e-commerce · JWT auth · RBAC · Aamarpay payment | Next.js · Node.js · MongoDB | [🔗 Live](https://fabrica-fetish-client.vercel.app) |
+| **🚲 BikeHub** — Bike rental platform · admin modules · bookings · secure payments | React · Redux · TypeScript · MongoDB | [🔗 Live](https://bikehub-client.vercel.app) |
 
 ---
 
@@ -194,7 +178,7 @@ const samiul: Developer = {
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
@@ -202,10 +186,20 @@ const samiul: Developer = {
 
 </div>
 
-- ✅ **30% performance gain** — Reduced dashboard load time at Blueberry Digital Labs
-- ✅ **Programming Hero Level-1 & Level-2** — Advanced Full-Stack Web Development
-- ✅ **Production-grade SaaS** — Contributed to LifeOS task management platform
-- ✅ **Mentored** juniors in web development, project structure & debugging
+<br/>
+
+<div align="center">
+
+| Achievement | Details |
+|:---:|---|
+| ⚡ **30% Performance Gain** | Reduced dashboard load time at Blueberry Digital Labs |
+| 🎓 **Programming Hero L1 & L2** | Advanced Full-Stack Web Development certification |
+| 🏭 **Production-grade SaaS** | Contributed to LifeOS task management platform |
+| 🐳 **DevOps Practitioner** | Docker · GitHub Actions CI/CD · Redis · RabbitMQ |
+| 🤖 **AI Automation Engineer** | Built LangChain + n8n pipelines in production |
+| 🧑‍🏫 **Mentor** | Guided juniors in web dev, project structure & debugging |
+
+</div>
 
 ---
 
@@ -224,10 +218,11 @@ const samiul: Developer = {
 <div align="center">
 
 | | |
-|:---:|:---:|
-| 🏢 **Full-time Roles** | Full-Stack / Backend / Node.js Engineer |
+|:---:|---|
+| 🏢 **Roles** | Full-Stack · Backend · Node.js / NestJS Engineer |
 | 🌍 **Open to** | Remote · On-site · Hybrid |
 | 💡 **Interests** | System Design · AI/LLM Integration · Cloud Infra · Open Source |
+| 🐳 **DevOps** | Docker · CI/CD · GitHub Actions · Redis · RabbitMQ |
 | 🗣️ **Languages** | Bengali (Native) · English (Professional) |
 
 </div>
@@ -244,16 +239,14 @@ const samiul: Developer = {
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-6366F1?style=for-the-badge)](https://alsamiul101.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/al-samiul-dev)
-[![Email](https://img.shields.io/badge/📧_alsamiul.programmer@gmail.com-EA4335?style=for-the-badge)](mailto:alsamiul.programmer@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Send_an_Email-EA4335?style=for-the-badge)](mailto:alsamiul.programmer@gmail.com)
 
 <br/>
 
 ⭐ **If my work helps you, a star means a lot!**
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" width="100%"/>
 </div>
