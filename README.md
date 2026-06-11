@@ -110,36 +110,107 @@ const samiul: Developer = {
 
 ---
 
-## 💼 Experience Timeline
+
+## 💼 Experience
+
+<div align="center">
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+╔══════════════════════════════════════════════════════════════════════╗
+║                     CAREER JOURNEY · SAMIUL                         ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-  May 2026 ────────────────────────────────────────── Present
-  🚀 Software Engineer · Galaxy Television · Dhaka
-     ├─ Full-stack apps with scalable architecture
-     ├─ AI pipelines: LangChain · LangGraph · n8n
-     ├─ Docker · CI/CD · GitHub Actions deployments
-     └─ Distributed backend & API architecture
+</div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br/>
 
-  Oct 2025 ──────────────────────────────── Mar 2026
-  ⚡ Junior Software Engineer · Divergent Technologies
-     ├─ Next.js dashboards · TanStack Query & Table
-     ├─ Inventory Management System: NestJS + PostgreSQL
-     ├─ LifeOS SaaS — task creation · scheduling · workflow
-     └─ HttpOnly cookie auth + Jotai state sync
+### 🚀 &nbsp;Software Engineer &nbsp;·&nbsp; Galaxy Television &nbsp;·&nbsp; Dhaka
+**`May 2026 – Present`** &nbsp; ![Active](https://img.shields.io/badge/●_Active-6366F1?style=flat-square&logoColor=white)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  Jan 2025 ──────────────────────────────── Jun 2025
-  🎨 Frontend Engineer (Contract) · Blueberry Digital Labs · Hyderabad
-     ├─ Responsive React.js UIs across all devices
-     ├─ 30% dashboard load-time improvement
-     └─ TanStack Query for caching & server state
+**What I build:**
+- Full-stack apps with scalable, modular architecture
+- AI automation pipelines — LangChain · LangGraph · n8n
+- Distributed backend systems & RESTful API design
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</td>
+<td width="50%" valign="top">
+
+**Tools & Tech:**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚡ &nbsp;Junior Software Engineer (Full Stack) &nbsp;·&nbsp; Divergent Technologies
+**`Oct 2025 – Mar 2026`** &nbsp; ![Completed](https://img.shields.io/badge/●_Completed-1D9E75?style=flat-square&logoColor=white)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Key contributions:**
+- Next.js dashboards with TanStack Query & Table
+- Inventory Management System — NestJS + PostgreSQL
+- LifeOS SaaS — task creation, scheduling & workflow
+- Secure auth: HttpOnly cookies + Jotai state sync
+
+</td>
+<td width="50%" valign="top">
+
+**Tools & Tech:**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🎨 &nbsp;Frontend Engineer (Contract) &nbsp;·&nbsp; Blueberry Digital Labs &nbsp;·&nbsp; Hyderabad
+**`Jan 2025 – Jun 2025`** &nbsp; ![Completed](https://img.shields.io/badge/●_Completed-EF9F27?style=flat-square&logoColor=white)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Key contributions:**
+- Responsive React.js UIs across all screen sizes
+- ⚡ **30% dashboard load-time improvement**
+- TanStack Query for smart caching & server state
+
+</td>
+<td width="50%" valign="top">
+
+**Tools & Tech:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+
 ```
 
 ---
