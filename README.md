@@ -24,40 +24,71 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0d5e856815de6e9ba29d3c6d6a9/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162623566626364653139622f313538333935313034343231372d4b56463754444c344649424553334b47434f442f636f64696e672d6672656e63682e676966" />
+<div align="center">
 
-```typescript
-const samiul: Developer = {
-  name:     "Mohammad Al Samiul",
-  title:    "Software Engineer @ Galaxy Television",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  edu:      "B.Sc CSE — Premier University Chittagong (2020–2025)",
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://github.com/mohammad-al-samiul.png" width="90" style="border-radius:50%"/>
+<br/>
+<sub><b>Mohammad Al Samiul</b></sub>
+</td>
+<td>
 
-  currentFocus: [
-    "🏗️  Scalable full-stack apps with clean architecture",
-    "🤖  AI pipelines — LangChain, LangGraph & n8n",
-    "🐳  Containerised deployments with Docker & CI/CD",
-    "📨  Event-driven systems with RabbitMQ & Redis",
-    "🔌  RESTful API design & distributed backends",
-  ],
+**Software Engineer @ Galaxy Television, Dhaka 🇧🇩**
+<br/>
+B.Sc in Computer Science & Engineering — Premier University Chittagong *(2020–2025)*
 
-  stack: {
-    frontend:  ["Next.js", "React.js", "TypeScript", "Redux", "TanStack Query", "Tailwind CSS"],
-    backend:   ["NestJS", "Node.js", "Express.js"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    messaging: ["RabbitMQ"],
-    devops:    ["Docker", "GitHub Actions", "CI/CD", "Git"],
-    ai:        ["LangChain", "LangGraph", "n8n"],
-    auth:      ["JWT", "HttpOnly Cookies", "RBAC"],
-  },
+![Full-Stack](https://img.shields.io/badge/Full--Stack-6366F1?style=flat-square)
+![AI Pipelines](https://img.shields.io/badge/AI_Pipelines-1D9E75?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps-EF9F27?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-E0234E?style=flat-square)
 
-  funFact: "My patience can annoy anyone 😄",
-};
-```
+</td>
+</tr>
+</table>
 
-<br clear="right"/>
+</div>
+
+<br/>
+
+I'm a **Software Engineer** passionate about building **scalable, production-ready systems** — from responsive full-stack web applications to **AI-driven automation pipelines**. Currently at **Galaxy Television, Dhaka**, I architect distributed backends, integrate LLM workflows with **LangChain & LangGraph**, and ship containerised apps through robust **CI/CD pipelines**.
+
+I thrive at the intersection of **backend engineering, AI automation, and DevOps** — always chasing clean architecture and measurable impact. Outside of work, I enjoy mentoring junior developers and contributing to the engineering community.
+
+<br/>
+
+<div align="center">
+
+| 🗓️ Experience | 🚀 Projects Shipped | ⚡ Performance Win | 🏢 Companies |
+|:---:|:---:|:---:|:---:|
+| **3+ Years** | **10+ Projects** | **30% Faster Dashboards** | **3 Companies** |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| | |
+|:---|:---|
+| 🏗️ **Full-Stack Engineering** | Next.js · NestJS · TypeScript — end-to-end scalable applications |
+| 🤖 **AI & Automation** | LangChain · LangGraph · n8n — production AI pipelines |
+| 🐳 **DevOps & CI/CD** | Docker · GitHub Actions — containerised deployments at scale |
+| 📨 **Distributed Systems** | RabbitMQ · Redis — event-driven backend architecture |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."*
+
+</div>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -212,7 +243,7 @@ const samiul: Developer = {
 
 
 ```
-
+```
 ---
 
 ## 🚀 Featured Projects
