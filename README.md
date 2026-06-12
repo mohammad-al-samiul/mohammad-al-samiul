@@ -371,7 +371,9 @@ I thrive at the intersection of **backend engineering, AI automation, and DevOps
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-al-samiul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+### 🥇 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammad-al-samiul&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 
 </div>
 
