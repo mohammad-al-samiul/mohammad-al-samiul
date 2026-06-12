@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammad%20Al%20Samiul&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Pipelines%20%7C%20DevOps&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammad%20Al%20Samiul&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Pipelines&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -248,16 +248,88 @@ I thrive at the intersection of **backend engineering, AI automation, and DevOps
 
 ## 🚀 Featured Projects
 
+<br/>
+
+### 🛍️ Fabrica Fetish — Full-Stack E-Commerce Platform
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+**A production-grade e-commerce platform** built with a clean, modular architecture. Features role-based access control, secure JWT authentication with HttpOnly cookies, and Aamarpay payment gateway integration for seamless transactions.
+
+**Key Features:**
+- 🔐 JWT auth + RBAC with protected admin routes
+- 💳 Aamarpay payment gateway integration
+- 📦 Full product, order & inventory management
+- 🖼️ Cloudinary image upload & management
+- 📱 Fully responsive across all screen sizes
+
+</td>
+<td width="35%" valign="top" align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge)](https://fabrica-fetish-client.vercel.app)
+[![Client Repo](https://img.shields.io/badge/Client_Repo-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-al-samiul/fabrica-fetish-client)
+[![Server Repo](https://img.shields.io/badge/Server_Repo-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-al-samiul/fabrica-fetish-server)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚲 BikeHub — Bike Rental Platform
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+**A feature-rich bike rental platform** with dedicated admin and user modules. Includes a complete booking system, real-time availability tracking, and integrated secure payment flows — all built with a strongly-typed TypeScript + Redux stack.
+
+**Key Features:**
+- 🛡️ Admin dashboard — bike, user & booking management
+- 📅 Real-time availability & booking system
+- 💰 Secure payment integration
+- 🔄 Redux Toolkit for predictable state management
+- 📊 TypeScript for type-safe, maintainable codebase
+
+</td>
+<td width="35%" valign="top" align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-1D9E75?style=for-the-badge)](https://bikehub-client.vercel.app)
+[![Client Repo](https://img.shields.io/badge/Client_Repo-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-al-samiul/bikehub-client)
+[![Server Repo](https://img.shields.io/badge/Server_Repo-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-al-samiul/bike-hub-server)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🗂️ More Projects
+
+<br/>
+
 <div align="center">
 
-[![Fabrica Fetish Client](https://github-readme-stats.vercel.app/api/pin/?username=mohammad-al-samiul&repo=fabrica-fetish-client&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=F59E0B)](https://github.com/mohammad-al-samiul/fabrica-fetish-client)
-[![Fabrica Fetish Server](https://github-readme-stats.vercel.app/api/pin/?username=mohammad-al-samiul&repo=fabrica-fetish-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=F59E0B)](https://github.com/mohammad-al-samiul/fabrica-fetish-server)
-
-[![BikeHub Client](https://github-readme-stats.vercel.app/api/pin/?username=mohammad-al-samiul&repo=bikehub-client&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=F59E0B)](https://github.com/mohammad-al-samiul/bikehub-client)
-[![BikeHub Server](https://github-readme-stats.vercel.app/api/pin/?username=mohammad-al-samiul&repo=bike-hub-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=F59E0B)](https://github.com/mohammad-al-samiul/bike-hub-server)
-
-[![Full-Stack Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=mohammad-al-samiul&repo=full-stack-portfolio-with-nextjs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=F59E0B)](https://github.com/mohammad-al-samiul/full-stack-portfolio-with-nextjs)
-[![Mystery Message](https://github-readme-stats.vercel.app/api/pin/?username=mohammad-al-samiul&repo=mystery-message-nextjs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=F59E0B)](https://github.com/mohammad-al-samiul/mystery-message-nextjs)
+| Project | Description | Tech Stack | Repo |
+|:---|:---|:---|:---:|
+| 💼 **Full-Stack Portfolio** | Personal portfolio with Next.js backend, dynamic project management & admin dashboard | Next.js · TypeScript · Tailwind CSS | [![GitHub](https://img.shields.io/badge/Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammad-al-samiul/full-stack-portfolio-with-nextjs) |
+| 💬 **Mystery Message** | Anonymous messaging app with AI-powered message suggestions & secure NextAuth authentication | Next.js · MongoDB · NextAuth · AI | [![GitHub](https://img.shields.io/badge/Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammad-al-samiul/mystery-message-nextjs) |
 
 </div>
 
@@ -265,14 +337,12 @@ I thrive at the intersection of **backend engineering, AI automation, and DevOps
 
 <div align="center">
 
-| Project | Description | Tech | Live |
-|:---|:---|:---|:---:|
-| 🛍️ **Fabrica Fetish** | Full-stack e-commerce with JWT auth, RBAC & Aamarpay payment gateway | Next.js · Node.js · MongoDB | [🔗 Live](https://fabrica-fetish-client.vercel.app) |
-| 🚲 **BikeHub** | Bike rental platform with admin modules, bookings & secure payments | React · Redux · TypeScript · MongoDB | [🔗 Live](https://bikehub-client.vercel.app) |
+[![View All Projects](https://img.shields.io/badge/⭐_View_All_Projects_on_GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-al-samiul?tab=repositories)
 
 </div>
 
 ---
+
 
 ## 📊 GitHub Stats
 
