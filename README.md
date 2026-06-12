@@ -62,7 +62,7 @@ I thrive at the intersection of **backend engineering, AI automation, and DevOps
 
 | 🗓️ Experience | 🚀 Projects Shipped | ⚡ Performance Win | 🏢 Companies |
 |:---:|:---:|:---:|:---:|
-| **3+ Years** | **10+ Projects** | **30% Faster Dashboards** | **3 Companies** |
+| **1+ Years** | **10+ Projects** | **30% Faster Dashboards** | **3 Companies** |
 
 </div>
 
@@ -334,23 +334,13 @@ I thrive at the intersection of **backend engineering, AI automation, and DevOps
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohammad-al-samiul&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=C9D1D9)](https://git.io/streak-stats)
 
 </div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammad-al-samiul&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=F59E0B&area=true&area_color=6366F1)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
 
 ## 🏆 Achievements
 
 <div align="center">
 
-### 🥇 GitHub Trophies
-
-[<img src="https://github-profile-trophy.vercel.app/?username=mohammad-al-samiul&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>](https://github-trophies.vercel.app/?username=mohammad-al-samiul&theme=radical&column=6)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-al-samiul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <br/>
