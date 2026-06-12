@@ -320,30 +320,6 @@ I thrive at the intersection of **backend engineering, AI automation, and DevOps
 
 ---
 
-### 🗂️ More Projects
-
-<br/>
-
-<div align="center">
-
-| Project | Description | Tech Stack | Repo |
-|:---|:---|:---|:---:|
-| 💼 **Full-Stack Portfolio** | Personal portfolio with Next.js backend, dynamic project management & admin dashboard | Next.js · TypeScript · Tailwind CSS | [![GitHub](https://img.shields.io/badge/Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammad-al-samiul/full-stack-portfolio-with-nextjs) |
-| 💬 **Mystery Message** | Anonymous messaging app with AI-powered message suggestions & secure NextAuth authentication | Next.js · MongoDB · NextAuth · AI | [![GitHub](https://img.shields.io/badge/Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammad-al-samiul/mystery-message-nextjs) |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![View All Projects](https://img.shields.io/badge/⭐_View_All_Projects_on_GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-al-samiul?tab=repositories)
-
-</div>
-
----
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -373,7 +349,7 @@ I thrive at the intersection of **backend engineering, AI automation, and DevOps
 
 ### 🥇 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohammad-al-samiul&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+[<img src="https://github-profile-trophy.vercel.app/?username=mohammad-al-samiul&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>](https://github-trophies.vercel.app/?username=mohammad-al-samiul&theme=radical&column=6)
 
 </div>
 
